@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Material Speech to Text</string>
+    <string name="filename">Enter your file name      </string>
+    <string name="content">   Your content</string>
+    <string name="title_activity_second">SecondActivity</string>
+
+    <string-array name="file_extensions">
+        <item>.txt</item>
+        <item>.pdf</item>
+    </string-array>
+
+    <string name="menu_share_this_app">Share this App</string>
+    <string name="menu_share_the_content">Share the content</string>
+    <string name="menu_like_us_on_facebook">Like us on Facebook</string>
+    <string name="menu_follow_us_on_twitter">Follow us on Twitter</string>
+    <string name="menu_rate_this_app">Rate this App</string>
+    <string name="menu_visit_our_website">Visit our Website</string>
+    <string name="menu_more_apps_by_us">More Apps by Us</string>
+    <string name="menu_more">More...</string>
+
+</resources>
